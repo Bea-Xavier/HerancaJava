@@ -34,11 +34,14 @@ javac *.java
 java Main.java
 ```
 
+## Vídeo Explicativo
+
+Vídeo com explicação conceitual de determinados pontos do código:
+(https://drive.google.com/drive/folders/1aiP51ff6vTVFmUaAI6bhGdJdMdCijL7i?usp=drive_link)
+
 ## Considerações finais
 
 Pronto! Agora você já pode usufruir do projeto Herança em Java!
-
-Dentro do repositório haverá uma pasta chamada *video_explicativo* onde o conteúdo é a explicação de algumas partes do código.
 
 ## Autor
 
