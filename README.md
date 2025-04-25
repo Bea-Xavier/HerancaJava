@@ -12,14 +12,14 @@ Além disso, o sistema possuí as funcionalidades de exibição dos dados cadast
 
 Para que você possa usufruir do sistema, é necessário ter previamente instalado em sua máquina a ferramenta *JDK*.
 
-[Java Development Kit (JDK)]https://www.oracle.com/br/java/technologies/downloads/
+[Java Development Kit (JDK)](https://www.oracle.com/br/java/technologies/downloads/)
 
 ### Utilizando o sistema
 
 1. Para baixar o arquivo do projeto, primeiramente copie o link do repositório e depois dentro de uma pasta da sua escolha, abra o terminal do git e digite o seguinte código:
 
 ```bash
-git clone
+git clone https://github.com/Bea-Xavier/HerancaJava.git
 ```
 
 2. Abra o arquivo em um programa de sua preferência, e compile todos os arquivos do projeto:
